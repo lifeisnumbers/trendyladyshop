@@ -1,0 +1,12 @@
+.userfeedback-submenu-highlight {
+    background: #1da867;
+}
+
+.userfeedback-submenu-highlight a span {
+    color: #fff;
+    font-weight: 600;
+}
+
+#adminmenu li.toplevel_page_userfeedback_surveys .wp-menu-image img {
+    opacity: 1;
+}

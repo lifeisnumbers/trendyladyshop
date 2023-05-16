@@ -1,0 +1,18 @@
+2023-04-18T07:35:09+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/FilterWrapper.php on line 1
+
+2023-04-18T08:11:37+00:00 CRITICAL Out of memory (allocated 97517568) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/wordpress-seo/src/builders/indexable-post-builder.php on line 1
+
+2023-04-18T08:13:35+00:00 CRITICAL Out of memory (allocated 97517568) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/wordpress-seo/src/memoizers/meta-tags-context-memoizer.php on line 1
+
+2023-04-18T08:13:37+00:00 CRITICAL Out of memory (allocated 118489088) (tried to allocate 94208 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+
+2023-04-18T08:13:37+00:00 CRITICAL Out of memory (allocated 112197632) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version3/class-wc-rest-product-reviews-controller.php on line 363
+
+2023-04-18T11:58:20+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 28672 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimplePluginLogger.php on line 834
+
+2023-04-18T11:58:21+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/shortcodes/portfolio.php on line 165
+
+2023-04-18T14:35:17+00:00 CRITICAL Out of memory (allocated 108003328) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/wordpress-seo/src/helpers/import-helper.php on line 1
+
+2023-04-18T14:35:18+00:00 CRITICAL Out of memory (allocated 120586240) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/functions.php on line 649
+

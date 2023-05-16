@@ -1,0 +1,341 @@
+# Translation of Plugins - kk Star Ratings - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - kk Star Ratings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-21 06:06:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - kk Star Ratings - Stable (latest release)\n"
+
+#: src/core/filters/validate.php:39
+msgid "Not allowed at the moment."
+msgstr "Không được phép vào lúc này."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:50
+msgid "The rating value must be between %1$d and %2$d."
+msgstr "Giá trị xếp hạng phải từ %1$d đến %2$d."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:44
+msgid "A rating is required to cast a vote."
+msgstr "Bạn cần đánh giá điểm để tham gia bình chọn."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:40
+msgid "A rating can not be accepted at the moment."
+msgstr "Không thể chấp nhận xếp hạng vào lúc này."
+
+#: src/core/views/metabox/content.php:36
+msgctxt "label"
+msgid "Disable"
+msgstr "Tắt"
+
+#: src/core/views/metabox/content.php:32
+msgctxt "label"
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: src/core/views/metabox/content.php:28
+msgctxt "label"
+msgid "Global"
+msgstr "Chung"
+
+#: src/core/views/metabox/content.php:22
+msgctxt "label"
+msgid "Auto Embed"
+msgstr "Tự động nhúng"
+
+#: src/core/views/metabox/content.php:15
+msgctxt "label"
+msgid "Reset Ratings"
+msgstr "Đặt lại xếp hạng"
+
+#: src/core/views/admin/tabs/rich-snippets.php:51
+msgctxt "Label"
+msgid "%s Total amount of stars"
+msgstr "%s Tổng số sao"
+
+#: src/core/views/admin/tabs/rich-snippets.php:49
+msgctxt "Label"
+msgid "%s Number of votes casted"
+msgstr "%s Tổng số đánh giá"
+
+#: src/core/views/admin/tabs/rich-snippets.php:47
+msgctxt "Label"
+msgid "%s Average ratings"
+msgstr "%s Đánh giá trung bình"
+
+#: src/core/views/admin/tabs/rich-snippets.php:45
+msgctxt "Label"
+msgid "%s Post title"
+msgstr "%s Tiêu đề bài viết."
+
+#: src/core/views/admin/tabs/rich-snippets.php:41
+msgid "Provide the ld+json structure."
+msgstr "Sử dụng cấu trúc ld+json."
+
+#: src/core/views/admin/tabs/rich-snippets.php:33
+msgctxt "Label"
+msgid "Content"
+msgstr "Nội dung"
+
+#: src/core/views/admin/tabs/rich-snippets.php:22
+msgctxt "Label"
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: src/core/views/admin/tabs/general.php:121
+msgid "The posts belonging to the selected categories will not auto-embed the star ratings. You may still manually show the star ratings. E.g. Using %s in your theme/template file(s)."
+msgstr "Các bài viết thuộc các danh mục đã chọn sẽ không tự động nhúng xếp hạng theo sao. Bạn vẫn có thể hiển thị xếp hạng sao theo cách thủ công. Ví dụ. Sử dụng %s trong (các) file theme/template của bạn."
+
+#: src/core/views/admin/tabs/general.php:109
+msgctxt "Label"
+msgid "Exclude Categories"
+msgstr "Danh mục không đánh giá"
+
+#: src/core/views/admin/tabs/general.php:101
+msgid "Star ratings will be auto-embedded for the selected locations. You may still manually allow star ratings for unselected/other locations. E.g. Using %s in your theme/template file(s)."
+msgstr "Xếp hạng theo sao sẽ được tự động nhúng cho các vị trí đã chọn. Bạn vẫn có thể cho phép xếp hạng sao theo cách thủ công cho các vị trí chưa được chọn / các vị trí khác. Ví dụ. Sử dụng %s trong (các) file theme/template của bạn."
+
+#: src/core/views/admin/tabs/general.php:89
+msgctxt "Label"
+msgid "Locations"
+msgstr "Vị trí"
+
+#: src/core/views/admin/tabs/general.php:69
+msgctxt "Label"
+msgid "Strategies"
+msgstr "Tuỳ chọn đánh giá"
+
+#: src/core/views/admin/tabs/general.php:58
+msgctxt "Label"
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: src/core/views/admin/tabs/general.php:53
+#: src/core/views/admin/tabs/rich-snippets.php:17
+msgctxt "Label"
+msgid "Status"
+msgstr "Trạng thái"
+
+#: src/core/views/admin/tabs/general.php:42
+msgctxt "Label"
+msgid "Allow guests to vote"
+msgstr "Cho phép khách bỏ phiếu"
+
+#: src/core/views/admin/tabs/general.php:41
+msgctxt "Label"
+msgid "Allow voting in archives"
+msgstr "Cho phép bỏ phiếu trong trang Danh sách"
+
+#: src/core/views/admin/tabs/general.php:37
+msgctxt "Label"
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: src/core/views/admin/tabs/general.php:36
+msgctxt "Label"
+msgid "Home"
+msgstr "Trang chủ"
+
+#: src/core/views/admin/tabs/appearance.php:140
+msgid "Choose the default position for the auto-embedded star ratings."
+msgstr "Chọn vị trí mặc định cho nhúng tự động đánh giá."
+
+#: src/core/views/admin/tabs/appearance.php:128
+msgctxt "Label"
+msgid "Default Position"
+msgstr "Vị trí mặc định"
+
+#: src/core/views/admin/tabs/appearance.php:112
+msgctxt "Label"
+msgid "Size"
+msgstr "Kích thước"
+
+#: src/core/views/admin/tabs/appearance.php:95
+msgctxt "Label"
+msgid "Gap"
+msgstr "Khoảng cách"
+
+#: src/core/views/admin/tabs/appearance.php:78
+msgctxt "Label"
+msgid "Stars"
+msgstr "Số sao"
+
+#: src/core/views/admin/tabs/appearance.php:69
+msgid "%s Votes"
+msgstr "%s Lượt đánh giá"
+
+#: src/core/views/admin/tabs/appearance.php:63
+msgid "%s Average ratings"
+msgstr "%s Đánh giá trung bình"
+
+#: src/core/views/admin/tabs/appearance.php:59
+msgid "Text that will be displayed when votes have been casted."
+msgstr "Đoạn này sẽ được hiển thị khi đã được thực hiện đánh giá."
+
+#: src/core/views/admin/tabs/appearance.php:51
+msgctxt "Label"
+msgid "Legend"
+msgstr "Đầu đề"
+
+#: src/core/views/admin/tabs/appearance.php:30
+msgctxt "Label"
+msgid "Greeting"
+msgstr "Lời chào"
+
+#: src/core/views/admin/tabs/appearance.php:20
+msgctxt "Label"
+msgid "Bottom Right"
+msgstr "Dưới cùng bên phải"
+
+#: src/core/views/admin/tabs/appearance.php:19
+msgctxt "Label"
+msgid "Bottom Center"
+msgstr "Ở giữa phía trên"
+
+#: src/core/views/admin/tabs/appearance.php:18
+msgctxt "Label"
+msgid "Bottom Left"
+msgstr "Dưới cùng bên trái"
+
+#: src/core/views/admin/tabs/appearance.php:17
+msgctxt "Label"
+msgid "Top Right"
+msgstr "Trên cùng bên phải"
+
+#: src/core/views/admin/tabs/appearance.php:16
+msgctxt "Label"
+msgid "Top Center"
+msgstr "Trên cùng ở giữa"
+
+#: src/core/views/admin/tabs/appearance.php:15
+msgctxt "Label"
+msgid "Top Left"
+msgstr "Trên cùng bên trái"
+
+#: src/core/views/admin/index.php:19
+msgid "Options saved."
+msgstr "Các thay đổi đã được lưu."
+
+#: src/core/filters/validate.php:61
+msgid "You have already casted your vote."
+msgstr "Bạn đã đánh giá rồi."
+
+#: src/core/filters/validate.php:53
+msgid "You need to be authenticated to cast a vote."
+msgstr "Bạn cần đăng nhập vào tài khoản để đánh giá."
+
+#: src/core/filters/validate.php:47
+msgid "You can not cast a vote in archives."
+msgstr "Bạn không thể đánh giá trong trang Danh sách."
+
+#: src/core/filters/validate.php:31
+msgid "The ratings are readonly."
+msgstr "Bạn chỉ có thể xem kết quả đánh giá."
+
+#: src/core/filters/admin/tabs.php:24
+msgctxt "Label"
+msgid "Rich Snippets"
+msgstr "Cấu trúc dữ liệu schema"
+
+#: src/core/filters/admin/tabs.php:23
+msgctxt "Label"
+msgid "Appearance"
+msgstr "Giao diện"
+
+#: src/core/filters/admin/tabs.php:22
+msgctxt "Label"
+msgid "General"
+msgstr "Tổng quan"
+
+#: src/core/actions/admin/index.php:88
+msgid "There were some errors while saving the options."
+msgstr "Đã xảy ra một số lỗi khi lưu các tùy chọn."
+
+#: src/core/actions/admin/index.php:57
+msgid "You can only save the options via the admin."
+msgstr "Bạn chỉ có thể lưu các tùy chọn trong trang quản trị."
+
+#: src/core/views/admin/tabs/appearance.php:103
+msgid "Gap between the stars."
+msgstr "Khoảng cách giữa các sao."
+
+#: src/core/functions/response.php:47
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "bình chọn"
+
+#: src/core/views/admin/tabs/appearance.php:42
+msgid "%s Post Type"
+msgstr "%s Post Type"
+
+#: src/core/views/admin/tabs/appearance.php:38
+msgid "Text that will be displayed when no votes have been casted."
+msgstr "Đoạn này sẽ được hiển thị khi không có bình chọn nào."
+
+#: src/core/views/admin/tabs/appearance.php:67
+msgid "%s Total amount of stars"
+msgstr "%s Tổng số sao"
+
+#: src/core/views/admin/tabs/appearance.php:65
+msgid "%s Number of votes casted"
+msgstr "%s Tổng số lượt bình chọn"
+
+#: src/core/views/admin/tabs/appearance.php:40
+#: src/core/views/admin/tabs/appearance.php:61
+#: src/core/views/admin/tabs/rich-snippets.php:43
+msgid "The following variables are available:"
+msgstr "Các biến sau đây có sẳn"
+
+#: src/core/views/admin/tabs/rich-snippets.php:25
+msgid "Enable/disable rich snippets."
+msgstr "Bật/tắt rich snippets"
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:30
+#: src/core/wp/actions/wp_ajax_kksr-migrations.php:28
+msgid "This action is forbidden."
+msgstr "Hành động này bị cấm"
+
+#: src/core/views/admin/tabs/appearance.php:120
+msgid "Size of a single star."
+msgstr "Kích thước của ngôi sao."
+
+#: src/core/views/admin/tabs/appearance.php:86
+msgid "Total number of stars."
+msgstr "Tổng số sao."
+
+#: src/core/views/admin/tabs/general.php:43
+msgctxt "Label"
+msgid "Unique votes (based on IP Address)"
+msgstr "Đánh giá không trùng lặp (dựa vào địa chỉ IP)"
+
+#: src/core/views/admin/tabs/general.php:81
+msgid "Select the voting strategies."
+msgstr "Chọn chiến lược bỏ phiếu"
+
+#: src/core/views/admin/tabs/general.php:61
+msgid "Globally activate/deactivate the star ratings."
+msgstr "Kích hoạt/hủy kích hoạt toàn bộ đánh giá."
+
+#. Author URI of the plugin
+msgid "http://bhittani.com"
+msgstr "http://bhittani.com"
+
+#. Author of the plugin
+msgid "Kamal Khan"
+msgstr "Kamal Khan"
+
+#. Description of the plugin
+msgid "Allow blog visitors to involve and interact more effectively with your website by rating posts."
+msgstr "Cho phép khách truy cập blog tham gia và tương tác hiệu quả hơn với trang web của bạn bằng cách xếp hạng bài đăng."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/kamalkhan/kk-star-ratings"
+msgstr "https://github.com/kamalkhan/kk-star-ratings"
+
+#. Plugin Name of the plugin
+msgid "kk Star Ratings"
+msgstr "kk Star Ratings"

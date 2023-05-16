@@ -1,0 +1,2 @@
+2023-05-12T09:45:46+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 45056 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/inc/SimpleHistory.php on line 1004
+

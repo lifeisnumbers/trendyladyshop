@@ -1,0 +1,12 @@
+2023-04-29T17:34:43+00:00 CRITICAL Out of memory (allocated 93323264) (tried to allocate 389120 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/streams.php on line 229
+
+2023-04-29T17:34:43+00:00 CRITICAL Out of memory (allocated 93323264) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/TaskLists.php on line 458
+
+2023-04-29T17:34:43+00:00 CRITICAL Out of memory (allocated 93323264) (tried to allocate 389120 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/streams.php on line 229
+
+2023-04-29T17:34:44+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 135168 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/streams.php on line 127
+
+2023-04-29T17:41:54+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimplePluginLogger.php on line 869
+
+2023-04-29T17:41:54+00:00 CRITICAL Out of memory (allocated 42991616) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/TaskLists.php on line 458
+

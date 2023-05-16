@@ -1,0 +1,4 @@
+2023-05-02T06:46:26+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimplePluginLogger.php on line 869
+
+2023-05-02T06:46:26+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/shortcodes/product_categories.php on line 168
+

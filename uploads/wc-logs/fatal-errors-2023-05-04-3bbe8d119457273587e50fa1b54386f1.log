@@ -1,0 +1,2 @@
+2023-05-04T08:52:08+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 28672 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimplePluginLogger.php on line 834
+

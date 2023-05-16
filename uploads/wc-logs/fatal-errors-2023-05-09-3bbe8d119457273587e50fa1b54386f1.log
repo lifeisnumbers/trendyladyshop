@@ -1,0 +1,70 @@
+2023-05-09T05:40:44+00:00 CRITICAL Out of memory (allocated 120586240) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/functions.php on line 649
+
+2023-05-09T05:42:11+00:00 CRITICAL Out of memory (allocated 101711872) (tried to allocate 53248 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/inc/SimpleHistory.php on line 917
+
+2023-05-09T05:42:11+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-page.php on line 1
+
+2023-05-09T05:42:11+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-page.php on line 1
+
+2023-05-09T05:45:51+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 45056 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/inc/SimpleHistory.php on line 1004
+
+2023-05-09T05:45:51+00:00 CRITICAL Out of memory (allocated 11534336) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/blocks/blocks-json.php on line 1
+
+2023-05-09T05:45:54+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/wordpress-seo/src/integrations/watchers/indexable-ancestor-watcher.php on line 176
+
+2023-05-09T05:46:14+00:00 CRITICAL Out of memory (allocated 63963136) (tried to allocate 81920 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/plugin.php on line 177
+
+2023-05-09T05:46:14+00:00 CRITICAL Out of memory (allocated 63963136) (tried to allocate 81920 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/plugin.php on line 177
+
+2023-05-09T05:47:16+00:00 CRITICAL Out of memory (allocated 34603008) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/TaskLists.php on line 458
+
+2023-05-09T05:47:16+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 45056 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/inc/SimpleHistory.php on line 1004
+
+2023-05-09T06:06:19+00:00 CRITICAL Out of memory (allocated 93323264) (tried to allocate 389120 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/streams.php on line 229
+
+2023-05-09T06:06:19+00:00 CRITICAL Out of memory (allocated 93323264) (tried to allocate 65536 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 36
+
+2023-05-09T06:10:24+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimplePluginLogger.php on line 977
+
+2023-05-09T06:10:24+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/src/Internal/Admin/Onboarding/OnboardingThemes.php on line 1
+
+2023-05-09T07:02:40+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/wordpress-seo/src/integrations/watchers/indexable-author-archive-watcher.php on line 1
+
+2023-05-09T07:02:41+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-page.php on line 283
+
+2023-05-09T07:20:30+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimplePluginLogger.php on line 977
+
+2023-05-09T07:20:30+00:00 CRITICAL Out of memory (allocated 63963136) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/TaskList.php on line 275
+
+2023-05-09T07:20:36+00:00 CRITICAL Out of memory (allocated 118489088) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php on line 1757
+
+2023-05-09T07:20:47+00:00 CRITICAL Out of memory (allocated 28311552) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/shortcodes/portfolio.php on line 254
+
+2023-05-09T07:20:48+00:00 CRITICAL Out of memory (allocated 49283072) (tried to allocate 389120 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/streams.php on line 229
+
+2023-05-09T07:22:50+00:00 CRITICAL Out of memory (allocated 22020096) (tried to allocate 389120 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/streams.php on line 229
+
+2023-05-09T07:23:09+00:00 CRITICAL Out of memory (allocated 19922944) (tried to allocate 28672 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/classes/class-tgm-plugin-activation.php on line 3716
+
+2023-05-09T07:24:00+00:00 CRITICAL Out of memory (allocated 105906176) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/functions.php on line 649
+
+2023-05-09T07:24:23+00:00 CRITICAL Out of memory (allocated 97517568) (tried to allocate 45056 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/init.php on line 68
+
+2023-05-09T07:27:51+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 45056 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/inc/SimpleHistory.php on line 1004
+
+2023-05-09T07:27:52+00:00 CRITICAL Out of memory (allocated 105906176) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/functions.php on line 649
+
+2023-05-09T16:52:59+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/shortcodes/ux_instagram_feed.php on line 246
+
+2023-05-09T16:53:01+00:00 CRITICAL Out of memory (allocated 95420416) (tried to allocate 20480 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/blocks/blocks-json.php on line 1
+
+2023-05-09T16:53:02+00:00 CRITICAL Out of memory (allocated 53477376) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/call-now-button/src/renderers/modern/class-modernrenderer.php on line 1
+
+2023-05-09T16:53:02+00:00 CRITICAL Out of memory (allocated 36700160) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php on line 809
+
+2023-05-09T16:53:55+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 40960 bytes) in /home/qctmfy7gkn59/public_html/wp-includes/pomo/mo.php on line 302
+
+2023-05-09T16:54:51+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/plugins/simple-history/loggers/SimpleCommentsLogger.php on line 723
+
+2023-05-09T16:54:51+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 32768 bytes) in /home/qctmfy7gkn59/public_html/wp-content/themes/flatsome/inc/shortcodes/ux_instagram_feed.php on line 408
+
